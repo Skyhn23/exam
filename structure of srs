@@ -1,0 +1,49 @@
+Structures of SRS
+1 Introduction 
+     website for lbrary
+1.1	Purpose
+this document gives detailed fctionality nd non functionality requirement for software login form,the purpose of this document is that requirement mentioned in it should be 
+utilized by software developer to implement the system
+1.3	Scope
+"library login form" is an attempt to similate the basic concept ofan library management system.the system enables to perform the following functions
+details of books
+author name
+library members
+
+  1.3 Overview
+this system provides an easy solutionto the customer  to keep track reversion
+
+2 General Description
+the library login form facilitates the students to enquiry about the book available
+books return and update details
+
+2.1 User manual
+this system should provide help option in whch to operate the system should be explained
+
+3 Functional Requirements
+
+3.1 Description
+the identity of the student is verified and then should enter to the librarysystem .the system should display the user login id so the librarian could identify the student
+
+
+3.2 Technical issues
+    Server down time while all are accessing at a time
+    
+4 Interface requirements
+
+4.1 GUI
+4.2 Hardware interface 
+4.3 software interface 
+
+5 performance requirements
+# multiple user access 
+# there should be no server error
+
+6. Design constrain
+GUI should be user friendly and everyone should access it easily
+when the website opens there login page there the student should eneter the login id nd password to acces the website
+when the student login there  it should display the languages nd the authors details 
+
+7. Other non functional attributes
+even the library staff member can login nd view the requiremnt for the user
+8. Operational secenarios 
